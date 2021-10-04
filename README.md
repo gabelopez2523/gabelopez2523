@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Gabe Lopez
 
 <!--
 **gabelopez2523/gabelopez2523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+I am a current senior at the Univerity of Denver graduationg in the Spring of 2022
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
