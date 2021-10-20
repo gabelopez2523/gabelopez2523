@@ -6,4 +6,4 @@ I am a current senior at the Univerity of Denver graduationg in the Spring of 20
 
 [Optimization Project using Python](https://github.com/gabelopez2523/gabelopez2523/blob/main/Python%20Final%20Project.ipynb)
 
-
+[Tableau Project on NBA games](Project.3200.final.pdf)
