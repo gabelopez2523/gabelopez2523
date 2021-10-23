@@ -14,3 +14,7 @@ Asside from that I enjoy playing soccer, snowboarding, and watching movies! Belo
 
 [Tableau Project on NBA games](Project.3200.final.pdf)
 -----
+
+[Database Build Script](BuildTapiaAuto.sql)
+-----
+
