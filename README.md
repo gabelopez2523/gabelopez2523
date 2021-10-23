@@ -18,3 +18,5 @@ Asside from that I enjoy playing soccer, snowboarding, and watching movies! Belo
 [Database Build Script](BuildTapiaAuto.sql)
 -----
 
+## Regression Model
+![Final regression](https://user-images.githubusercontent.com/90865017/138539227-0a91428b-5a06-44bc-b069-8a7c95489d9c.png)
