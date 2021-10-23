@@ -13,16 +13,31 @@ I have coded in Python, TSQL, and R. I hope to expand my coding skills and learn
 
 Asside from that I enjoy playing soccer, snowboarding, and watching movies! Below are a few of the project I have worked on throughout undergrad. Cherck it out! 
 
+## List of Analytics Courses Taken 
+* Automating Business Processes 
+* Foundation of Information Management 
+* Enterprise Information Management
+* Data Warehouse and Business Intell.
+* Data Visualization
+* Optimization Modeling
+* Sports Statistics 
+
+
 --------
+This project involved doing an optimization on a business of choiuce. My project was on product optimization, finding a solution that would be the most profitable. 
 
 [Optimization Project using Python](https://github.com/gabelopez2523/gabelopez2523/blob/main/Python%20Final%20Project.ipynb)
 -----
+Here I worked with a team, where we created a variety of models that would help create the outcome of an NBA game. 
 
 [Tableau Project on NBA games](Project.3200.final.pdf)
 -----
+This script built a small auto dealership datebase through SSMS. 
 
 [Database Build Script](BuildTapiaAuto.sql)
 -----
 
 ## Regression Model
+A simple linear regression model done through JMP.
+
 ![Final regression](https://user-images.githubusercontent.com/90865017/138539227-0a91428b-5a06-44bc-b069-8a7c95489d9c.png)
