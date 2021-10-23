@@ -28,11 +28,11 @@ This project involved doing an optimization on a business of choiuce. My project
 
 [Optimization Project using Python](https://github.com/gabelopez2523/gabelopez2523/blob/main/Python%20Final%20Project.ipynb)
 -----
-Here I worked with a team, where we created a variety of models that would help create the outcome of an NBA game. 
+Here I worked with a team, where we created multiple models that would help predict the outcome of an NBA game using a variety of variables. The models were then compared to one another to determine which one was the most accurate and had the best fit.  
 
 [Tableau Project on NBA games](Project.3200.final.pdf)
 -----
-This script built a small auto dealership datebase through SSMS. 
+This script builds a small auto dealership datebase through SSMS. 
 
 [Database Build Script](BuildTapiaAuto.sql)
 -----
