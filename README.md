@@ -1,11 +1,15 @@
 ### Hi there 👋 I'm Gabe Lopez
 
 ## About Me
-I am from Santa Fe, New Mexico, born and raised.
+I am from Santa Fe, New Mexico, born and raised. 
 I am a current senior at the Univerity of Denver graduationg in the Spring of 2022, majoring in Business Analytics annd Finance.
 I have coded in Python, TSQL, and R. I hope to expand my coding skills and learn new programs. 
 
-⚽  🏂   🎥 
+⚽  🏂   🎥    
+
+
+:guatemala:
+
 
 Asside from that I enjoy playing soccer, snowboarding, and watching movies! Below are a few of the project I have worked on throughout undergrad. Cherck it out! 
 
