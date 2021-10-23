@@ -7,8 +7,8 @@ I have coded in Python, TSQL, and R. I hope to expand my coding skills and learn
 
 ⚽  🏂   🎥    
 
+![image](https://user-images.githubusercontent.com/90865017/138539572-5cb2d77a-df42-4e81-ba65-0b6c71fba1b4.png)
 
-:guatemala:
 
 
 Asside from that I enjoy playing soccer, snowboarding, and watching movies! Below are a few of the project I have worked on throughout undergrad. Cherck it out! 
