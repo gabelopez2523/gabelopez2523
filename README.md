@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Gabe Lopez
+### Hi there 👋 I'm Gabe Lopez]
+[Linkedin](https://www.linkedin.com/in/gabriel-lopez-du2022/)
 
 ## About Me
 I am from Santa Fe, New Mexico, born and raised. 
