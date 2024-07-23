@@ -3,8 +3,8 @@
 
 ## About Me
 I am from Santa Fe, New Mexico, born and raised. 
-I am a current senior at the Univerity of Denver graduationg in the Spring of 2022, majoring in Business Analytics annd Finance.
-I have coded in Python, TSQL, and R. I hope to expand my coding skills and learn new programs. 
+I am a consultant at Plante Moran specializing in backend ETL development and building small to medium-scale data warehouses.
+I primarily coded in Python and SQL. However, I am always looking for opportunities to learn new programs and expand on my technical skills. 
 
 ⚽  🏂   🎥    
 
@@ -12,7 +12,7 @@ I have coded in Python, TSQL, and R. I hope to expand my coding skills and learn
 
 
 
-Asside from that I enjoy playing soccer, snowboarding, and watching movies! Below are a few of the project I have worked on throughout undergrad. Cherck it out! 
+Asside from that I enjoy playing soccer, snowboarding, and watching movies! Below are a few of the projects I have worked on throughout undergrad and grad school. Check it out! 
 
 ## List of Analytics Courses Taken 
 * Automating Business Processes 
@@ -25,7 +25,7 @@ Asside from that I enjoy playing soccer, snowboarding, and watching movies! Belo
 
 
 --------
-This project involved doing an optimization on a business of choiuce. My project was on product optimization, finding a solution that would be the most profitable. 
+This project involved doing an optimization on a business of choice. My project was on product optimization, finding a solution that would be the most profitable. 
 
 [Optimization Project using Python](https://github.com/gabelopez2523/gabelopez2523/blob/main/Python%20Final%20Project.ipynb)
 -----
