@@ -22,23 +22,3 @@ Asside from that I enjoy playing soccer, snowboarding, and watching movies! Belo
 * Data Visualization
 * Optimization Modeling
 * Sports Statistics 
-
-
---------
-This project involved doing an optimization on a business of choice. My project was on product optimization, finding a solution that would be the most profitable. 
-
-[Optimization Project using Python](https://github.com/gabelopez2523/gabelopez2523/blob/main/Python%20Final%20Project.ipynb)
------
-Here I worked with a team, where we created multiple models that would help predict the outcome of an NBA game using a variety of variables. The models were then compared to one another to determine which one was the most accurate and had the best fit.  
-
-[Tableau Project on NBA games](Project.3200.final.pdf)
------
-This script builds a small auto dealership datebase through SSMS. 
-
-[Database Build Script](BuildTapiaAuto.sql)
------
-
-## Regression Model
-A simple linear regression model done through JMP.
-
-![Final regression](https://user-images.githubusercontent.com/90865017/138539227-0a91428b-5a06-44bc-b069-8a7c95489d9c.png)
