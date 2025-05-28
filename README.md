@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Gabe Lopez
-[Linkedin](https://www.linkedin.com/in/gabriel-lopez-du2022/)
 
 ⚽  🏂   🎥    
 
