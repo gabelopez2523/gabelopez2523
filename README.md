@@ -1,8 +1,6 @@
 ### Que Onda 👋 I'm Gabe Lopez
 
-⚽  🏂   🎥    
-
-![image](https://user-images.githubusercontent.com/90865017/138539572-5cb2d77a-df42-4e81-ba65-0b6c71fba1b4.png)
+⚽  🏂   🎥  🇬🇹
 
 
 ## About Me
