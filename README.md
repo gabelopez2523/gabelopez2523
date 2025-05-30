@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gabe Lopez
+### Que Onda 👋 I'm Gabe Lopez
 
 ⚽  🏂   🎥    
 
@@ -6,10 +6,10 @@
 
 
 ## About Me
-I am from Santa Fe, New Mexico, born and raised. 
+I'm from Santa Fe, New Mexico, born and raised. 
 I currently do consulting, specializing in backend ETL development and building small to medium-scale data warehouses.
-I primarily code in Python and SQL. However, I am always looking for opportunities to learn new programs and expand my technical skills. 
-In addition, I enjoy playing soccer, running, snowboarding, and watching films! 
+I primarily code in Python and SQL, but I'm always looking for opportunities to learn new programs and expand my technical skills. 
+Apart from programming, I enjoy playing soccer, running, snowboarding, and watching films! 
 
-In this repository you'll find a few personal projects I have worked on. Check them out! 
+In this repository, you'll find a few personal projects I have worked on. Check them out! 
 
